@@ -8,6 +8,11 @@ This is a simple app built with Vue + Tailwind + vite + vite-ssg - vite-pwa that
 * Instant Preview: See the transformation in real-time with our instant preview feature, allowing you to fine-tune your fancy text before sharing it with the world.
 * Copy and Paste Convenience: Copy your converted text with a single click and paste it directly into your favorite platforms, saving you time and effort.
 
+
+<div align="center">
+https://www.textconverter.net
+</div>
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
